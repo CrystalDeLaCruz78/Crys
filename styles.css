@@ -1,0 +1,12 @@
+body{
+    font-family: fantasy, sans-serif;align-items: center
+    background-color: #ebdddd;background-color: blueviolet
+    background-image: url(plane.jpg)
+}
+h1{
+    color: cornsilk;
+    font-size: 100pz;
+}
+p{
+    background-color: pink;background-blend-mode: lighten difference
+}
